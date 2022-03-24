@@ -24,8 +24,6 @@ public class İki_sayının_yerini_değiştirme {
 
     System.out.println("Birinci sayi : " + birinci_sayi + " Ikinci sayi : " + ikinci_sayi);
 
-    
-
  }
     
 }
