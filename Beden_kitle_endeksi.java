@@ -15,6 +15,5 @@ public class Beden_kitle_endeksi {
         double bki = kilo / (boy * boy);
         
         System.out.println("Beden Kitle indeksiniz:" + bki);
-        
     }
 }
