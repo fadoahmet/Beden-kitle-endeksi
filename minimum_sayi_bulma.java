@@ -32,8 +32,6 @@ public class minimum_sayi_bulma {
 
         System.out.println("Minimmum sayi:" + min);
 
-            
-
     }
     
 }
