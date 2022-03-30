@@ -57,13 +57,6 @@ public class hesap_makinesi {
                    System.out.print("Girilen sayilarin carpimi:" + ((double) a / b));
                    break;
 
-                    
-        
-
-
-
-
-
         }
 
 
